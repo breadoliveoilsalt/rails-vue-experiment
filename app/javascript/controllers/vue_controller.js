@@ -1,5 +1,7 @@
 import * as Vue from "vue"
-const point = "#point"
+
+console.log('Made it to here')
+const point = "#app"
 const element = document.querySelector(point)
 if (element !== null) {
     const app = Vue.createApp({
