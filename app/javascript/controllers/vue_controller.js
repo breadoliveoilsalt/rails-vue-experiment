@@ -1,5 +1,5 @@
 import * as Vue from "vue"
-import MyComponent from './my_component.js'
+import MyComponent from '../components/my_component.js'
 
 console.log('Made it to here')
 console.log('import seems to be working')
